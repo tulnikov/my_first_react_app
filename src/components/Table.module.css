@@ -1,10 +1,13 @@
 table {
     border: 0px solid black;
+    margin: 50px auto;
+    font-size: 20px;
 }
 
 td{
     border: 1px solid black;
-    width: 100px;
+    width: auto;
+    padding: 15px;
     text-align: center;
 
 }
