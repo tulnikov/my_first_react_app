@@ -1,7 +1,7 @@
-import styles from './ControlPanel.modules.css';
+// import styles from './ControlPanel.modules.css';
 
 const ControlPanel = props => {
-    return <div className={styles.MyControlPanel}>
+    return <div>
         {props.children}
     </div>
 }

@@ -1,7 +1,8 @@
 import styles from "./Form.module.css";
 import Button from "./Button";
-import {useState} from "react";
+import {useState, useEffect} from "react";
 import ControlPanel from "./ControlPanel";
+
 
 const Form = (props) => {
 
